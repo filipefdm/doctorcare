@@ -18,6 +18,7 @@
 
 - [O que é o DoctorCare?](#o-que-é-o-doctorcare)
 - [Tecnologias](#tecnologias)
+- [Bibliotecas](#bibliotecas)
 
 ## O que é o DoctorCare?
 
@@ -31,7 +32,7 @@ Foram utilizadas as seguintes tecnologias e ferramentas:
 - CSS
 - JavaScript
 
-## 📚 Bibliotecas
+## Bibliotecas
 
 - [Google Fonts](https://fonts.google.com/)
 - [ScrollReveal](https://scrollrevealjs.org/)
